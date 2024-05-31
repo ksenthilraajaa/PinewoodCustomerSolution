@@ -14,13 +14,21 @@ This Repository contains 2 solutions
 
 
 **Prerequisities:**
+
 Visual Studio Code
+
 OS: Windows 10 / Linux
+
 SDK: .Net Core 8.0
+
 Nuget Packages:
+
  Microsoft.EntityFrameworkCore.InMemory 8.0.6
+ 
  Microsoft.EntityFrameworkCore 8.0.6
+ 
  Microsoft.AspNetCore.OpenApi 8.0.4
+ 
 
 
 
