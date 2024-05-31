@@ -1,0 +1,284 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Api\\PwCustomer.Api.csproj": {}
+  },
+  "projects": {
+    "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Api\\PwCustomer.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Api\\PwCustomer.Api.csproj",
+        "projectName": "PwCustomer.Api",
+        "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Api\\PwCustomer.Api.csproj",
+        "packagesPath": "C:\\Users\\ksent\\.nuget\\packages\\",
+        "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ksent\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj": {
+                "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj"
+              },
+              "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj": {
+                "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj",
+        "projectName": "PwCustomer.Application",
+        "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj",
+        "packagesPath": "C:\\Users\\ksent\\.nuget\\packages\\",
+        "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ksent\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj": {
+                "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj",
+        "projectName": "PwCustomer.Domain",
+        "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj",
+        "packagesPath": "C:\\Users\\ksent\\.nuget\\packages\\",
+        "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ksent\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj",
+        "projectName": "PwCustomer.Infrastructure",
+        "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ksent\\.nuget\\packages\\",
+        "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ksent\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj": {
+                "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

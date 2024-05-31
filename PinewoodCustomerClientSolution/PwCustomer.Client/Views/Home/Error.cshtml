@@ -1,0 +1,27 @@
+@{
+    ViewData["Title"] = "Error";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - Customer </title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="text-danger">Oops! Something went wrong.</h1>
+        <p>We're sorry, but something went wrong. Please try again later or see the below exception for more details.
+        </p>
+        <p>@Model.ExceptionMessage</p>
+        <p>
+            <a href="@Url.Action("List", "Customer")" class="btn btn-primary">Return to List</a>
+        </p>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pHJVC79mwKC8KkXQKx7k62ak2XL4WSG+Rgk27KydOyM=",
+  "Source": "PwCustomer.Api",
+  "BasePath": "_content/PwCustomer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PwCustomer.Api.props" />
+</Project>
