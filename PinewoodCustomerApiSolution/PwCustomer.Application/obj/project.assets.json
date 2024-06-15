@@ -582,11 +582,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj",
+      "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj",
       "projectName": "PwCustomer.Application",
-      "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj",
+      "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj",
       "packagesPath": "C:\\Users\\ksent\\.nuget\\packages\\",
-      "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\obj\\",
+      "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ksent\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -601,8 +601,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj": {
-              "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj"
+            "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj": {
+              "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj"
             }
           }
         }

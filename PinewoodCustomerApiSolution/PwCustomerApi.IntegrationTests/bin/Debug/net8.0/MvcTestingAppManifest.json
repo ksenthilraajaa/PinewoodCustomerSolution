@@ -1,0 +1,6 @@
+{
+  "PwCustomer.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Api",
+  "PwCustomer.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Application",
+  "PwCustomer.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Domain",
+  "PwCustomer.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure"
+}

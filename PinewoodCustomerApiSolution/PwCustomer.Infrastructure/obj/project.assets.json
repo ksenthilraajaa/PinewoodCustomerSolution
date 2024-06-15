@@ -633,11 +633,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj",
+      "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj",
       "projectName": "PwCustomer.Infrastructure",
-      "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj",
+      "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ksent\\.nuget\\packages\\",
-      "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\obj\\",
+      "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ksent\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -652,8 +652,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj": {
-              "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj"
+            "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj": {
+              "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj"
             }
           }
         }

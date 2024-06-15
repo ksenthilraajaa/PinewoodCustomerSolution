@@ -20,3 +20,15 @@ c:\WorkPlace\Senthil\Github\PinewoodCustomerApiSolution\PwCustomer.Domain\obj\De
 c:\WorkPlace\Senthil\Github\PinewoodCustomerApiSolution\PwCustomer.Domain\obj\Debug\net8.0\refint\PwCustomer.Domain.dll
 c:\WorkPlace\Senthil\Github\PinewoodCustomerApiSolution\PwCustomer.Domain\obj\Debug\net8.0\PwCustomer.Domain.pdb
 c:\WorkPlace\Senthil\Github\PinewoodCustomerApiSolution\PwCustomer.Domain\obj\Debug\net8.0\ref\PwCustomer.Domain.dll
+c:\WorkPlace\Senthil\Github\PinewoodCustomerSolution\PinewoodCustomerSolution\PinewoodCustomerApiSolution\PwCustomer.Domain\bin\Debug\net8.0\PwCustomer.Domain.deps.json
+c:\WorkPlace\Senthil\Github\PinewoodCustomerSolution\PinewoodCustomerSolution\PinewoodCustomerApiSolution\PwCustomer.Domain\obj\Debug\net8.0\PwCustomer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\WorkPlace\Senthil\Github\PinewoodCustomerSolution\PinewoodCustomerSolution\PinewoodCustomerApiSolution\PwCustomer.Domain\obj\Debug\net8.0\PwCustomer.Domain.AssemblyInfoInputs.cache
+c:\WorkPlace\Senthil\Github\PinewoodCustomerSolution\PinewoodCustomerSolution\PinewoodCustomerApiSolution\PwCustomer.Domain\obj\Debug\net8.0\PwCustomer.Domain.AssemblyInfo.cs
+c:\WorkPlace\Senthil\Github\PinewoodCustomerSolution\PinewoodCustomerSolution\PinewoodCustomerApiSolution\PwCustomer.Domain\bin\Debug\net8.0\PwCustomer.Domain.dll
+c:\WorkPlace\Senthil\Github\PinewoodCustomerSolution\PinewoodCustomerSolution\PinewoodCustomerApiSolution\PwCustomer.Domain\bin\Debug\net8.0\PwCustomer.Domain.pdb
+c:\WorkPlace\Senthil\Github\PinewoodCustomerSolution\PinewoodCustomerSolution\PinewoodCustomerApiSolution\PwCustomer.Domain\obj\Debug\net8.0\PwCustomer.Domain.csproj.CoreCompileInputs.cache
+c:\WorkPlace\Senthil\Github\PinewoodCustomerSolution\PinewoodCustomerSolution\PinewoodCustomerApiSolution\PwCustomer.Domain\obj\Debug\net8.0\PwCustomer.Domain.sourcelink.json
+c:\WorkPlace\Senthil\Github\PinewoodCustomerSolution\PinewoodCustomerSolution\PinewoodCustomerApiSolution\PwCustomer.Domain\obj\Debug\net8.0\PwCustomer.Domain.dll
+c:\WorkPlace\Senthil\Github\PinewoodCustomerSolution\PinewoodCustomerSolution\PinewoodCustomerApiSolution\PwCustomer.Domain\obj\Debug\net8.0\refint\PwCustomer.Domain.dll
+c:\WorkPlace\Senthil\Github\PinewoodCustomerSolution\PinewoodCustomerSolution\PinewoodCustomerApiSolution\PwCustomer.Domain\obj\Debug\net8.0\PwCustomer.Domain.pdb
+c:\WorkPlace\Senthil\Github\PinewoodCustomerSolution\PinewoodCustomerSolution\PinewoodCustomerApiSolution\PwCustomer.Domain\obj\Debug\net8.0\ref\PwCustomer.Domain.dll

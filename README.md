@@ -1,13 +1,13 @@
 # PinewoodCustomerSolution
- 
-Hello! This repository includes an API and an MVC UI built with C# and ASP.NET Core 8.0.4. for managing Customer information 
+
+Hello! This repository includes an API and an MVC UI built with C# and ASP.NET Core 8.0.4. for managing Customer information
 
 This Repository contains 2 solutions
- 
- 
- •	PinewoodCustomerApiSolution 
- 
- 
+
+
+ •	PinewoodCustomerApiSolution
+
+
  •	PinewoodCustomerClientSolution
 
 
@@ -54,10 +54,10 @@ This backend API is designed using Clean Architecture principles, adhering to th
 
  ![image](https://github.com/ksenthilraajaa/PinewoodCustomerSolution/assets/54350680/2afe63aa-1422-4769-b547-eb846295ab8a)
 
-Entity Framework Core in-memory database used for storing data without having to worry about setting up a database. This can be used for building PoC applications and can be switched to real database easily when the prototype is ready. 
+Entity Framework Core in-memory database used for storing data without having to worry about setting up a database. This can be used for building PoC applications and can be switched to real database easily when the prototype is ready.
 DbContext added to the Configure section of the Startup class
 
- 
+
  ![image](https://github.com/ksenthilraajaa/PinewoodCustomerSolution/assets/54350680/ab3335d4-e624-4bc6-9b1e-19945fa95d60)
 
 
@@ -66,7 +66,7 @@ Initial Test Data
 
  ![image](https://github.com/ksenthilraajaa/PinewoodCustomerSolution/assets/54350680/3caa7a72-1776-4fd3-a7a9-fe92b33d1950)
 
-Connection Settings in appsettings.Development.json file 
+Connection Settings in appsettings.Development.json file
 
        "ConnectionStrings": {
          "DefaultConnection": "Server=(localdb)\\mssqllocaldb; Database=CleanDb; Trusted_Connection=True;"
@@ -74,9 +74,9 @@ Connection Settings in appsettings.Development.json file
 
 
 
-WebHostBuilder is utilized to build and run the API. It can also be included in a Dockerfile to facilitate running the application within Docker containers if required. Unit and Integration tests can be added to make sure the API is working as expected. 
+WebHostBuilder is utilized to build and run the API. It can also be included in a Dockerfile to facilitate running the application within Docker containers if required. Unit and Integration tests can be added to make sure the API is working as expected.
 
-API URL(localhost): http://localhost:5166/swagger/index.html 
+API URL(localhost): http://localhost:5166/swagger/index.html
  ![image](https://github.com/ksenthilraajaa/PinewoodCustomerSolution/assets/54350680/49a8f7c2-2b3a-494f-8919-bafe90b05536)
 
 
@@ -85,10 +85,10 @@ API URL(localhost): http://localhost:5166/swagger/index.html
 
 
 This front-end web UI application is built using the MVC architecture to interact with the backend web API for accessing customer data. Validations are added to the view model, Exceptions are handled properly and the CustomerApi service is used to invoke the API via HTTP requests.
-Here, the WebApplication is utilized to build and run the web application. 
+Here, the WebApplication is utilized to build and run the web application.
 
 
-MVC Client URL: http://localhost:5081/customer/list  
+MVC Client URL: http://localhost:5081/customer/list
 
  ![image](https://github.com/ksenthilraajaa/PinewoodCustomerSolution/assets/54350680/ae450ed1-4fd6-4e50-8a9f-f12841422fc5)
 
@@ -104,12 +104,10 @@ Add New Customer
 
 
 Edit Customer
- 
+
  ![image](https://github.com/ksenthilraajaa/PinewoodCustomerSolution/assets/54350680/a375f9da-0279-4e4e-9357-648930f7aca1)
 
 
-Delete 
+Delete
 
 ![image](https://github.com/ksenthilraajaa/PinewoodCustomerSolution/assets/54350680/60301816-9ca4-41e6-8c23-bca826134ae0)
-
- 

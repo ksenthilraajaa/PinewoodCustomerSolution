@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Api\\PwCustomer.Api.csproj": {}
+    "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Api\\PwCustomer.Api.csproj": {}
   },
   "projects": {
-    "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Api\\PwCustomer.Api.csproj": {
+    "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Api\\PwCustomer.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Api\\PwCustomer.Api.csproj",
+        "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Api\\PwCustomer.Api.csproj",
         "projectName": "PwCustomer.Api",
-        "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Api\\PwCustomer.Api.csproj",
+        "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Api\\PwCustomer.Api.csproj",
         "packagesPath": "C:\\Users\\ksent\\.nuget\\packages\\",
-        "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Api\\obj\\",
+        "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ksent\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj": {
-                "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj"
+              "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj": {
+                "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj"
               },
-              "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj": {
-                "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj"
+              "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj": {
+                "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj": {
+    "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj",
+        "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj",
         "projectName": "PwCustomer.Application",
-        "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj",
+        "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj",
         "packagesPath": "C:\\Users\\ksent\\.nuget\\packages\\",
-        "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\obj\\",
+        "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ksent\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -104,8 +104,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj": {
-                "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj"
+              "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj": {
+                "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj"
               }
             }
           }
@@ -150,14 +150,14 @@
         }
       }
     },
-    "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj": {
+    "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj",
+        "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj",
         "projectName": "PwCustomer.Domain",
-        "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj",
+        "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj",
         "packagesPath": "C:\\Users\\ksent\\.nuget\\packages\\",
-        "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\obj\\",
+        "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ksent\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -208,14 +208,14 @@
         }
       }
     },
-    "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj": {
+    "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj",
+        "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj",
         "projectName": "PwCustomer.Infrastructure",
-        "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj",
+        "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\PwCustomer.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ksent\\.nuget\\packages\\",
-        "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\obj\\",
+        "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ksent\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -230,8 +230,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj": {
-                "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj"
+              "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj": {
+                "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Application\\PwCustomer.Application.csproj"
               }
             }
           }

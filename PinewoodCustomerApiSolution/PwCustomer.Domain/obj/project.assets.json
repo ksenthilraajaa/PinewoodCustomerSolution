@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj",
+      "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj",
       "projectName": "PwCustomer.Domain",
-      "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj",
+      "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\PwCustomer.Domain.csproj",
       "packagesPath": "C:\\Users\\ksent\\.nuget\\packages\\",
-      "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\obj\\",
+      "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerApiSolution\\PwCustomer.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ksent\\AppData\\Roaming\\NuGet\\NuGet.Config"

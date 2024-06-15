@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerClientSolution\\PwCustomer.Client\\PwCustomer.Client.csproj",
+      "projectUniqueName": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerClientSolution\\PwCustomer.Client\\PwCustomer.Client.csproj",
       "projectName": "PwCustomer.Client",
-      "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerClientSolution\\PwCustomer.Client\\PwCustomer.Client.csproj",
+      "projectPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerClientSolution\\PwCustomer.Client\\PwCustomer.Client.csproj",
       "packagesPath": "C:\\Users\\ksent\\.nuget\\packages\\",
-      "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerClientSolution\\PwCustomer.Client\\obj\\",
+      "outputPath": "c:\\WorkPlace\\Senthil\\Github\\PinewoodCustomerSolution\\PinewoodCustomerSolution\\PinewoodCustomerClientSolution\\PwCustomer.Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ksent\\AppData\\Roaming\\NuGet\\NuGet.Config"
